@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2022 15:07:39 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUPT退出决赛圈</title>
+      <link>http://example.org/post/second/</link>
+      <pubDate>Sun, 27 Nov 2022 15:07:39 +0800</pubDate>
+      
+      <guid>http://example.org/post/second/</guid>
+      <description>润了&amp;ndash;回家！ </description>
+    </item>
+    
+    <item>
+      <title>看过来！</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Sat, 26 Nov 2022 17:13:25 +0800</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>hello world 孟洋 2022211199 2022211307班 秦紫妍 2022211202 2022211307班 疫情严重到要回家了!</description>
+    </item>
+    
+  </channel>
+</rss>
